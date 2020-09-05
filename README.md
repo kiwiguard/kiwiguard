@@ -1,10 +1,11 @@
 ## Hallåja! 👋
 
 Susanne Nilsson heter jag.
+
 Studerar till Webbutvecklare via Mittuniversitet.
 
-#### Enya the eurasier 🐶
-För roligare content följ min hund Enya på instagram istället: eurasier.enya
+### Enya the eurasier 🐶
+För roligare content följ min hund Enya på instagram istället: **eurasier.enya**
 
 
 ![alt text](https://github.com/kiwiguard/kiwiguard/blob/master/enya_the_dog.jpg "Enya the dog at Fårö, Gotland")
