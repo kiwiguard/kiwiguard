@@ -2,7 +2,7 @@
 
 Susanne Nilsson heter jag.
 
-Studerar till Webbutvecklare via Mittuniversitet.
+Frontend utvecklare
 
 ### Enya the eurasier 🐶
 För roligare content följ min hund Enya på instagram istället: **eurasier.enya**
